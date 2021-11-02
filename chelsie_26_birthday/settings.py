@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-+csg5_35d8asnmupz9_#jji*^vad6%$)0f&f&y#pvzubwa(udd
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'chelsie-26-th-birthday.herokuapp.com'
+    'chelsie-26-th-birthday.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
