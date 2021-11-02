@@ -1,0 +1,1 @@
+web: gunicorn chelsie_26_birthday.wsgi --log-file -
